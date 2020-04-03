@@ -1,0 +1,35 @@
+[33mcommit c7d2e5e6874df3fe94ff0d6bb108dc37f4185ca7[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Bator Rinchino <rinchinobator@mail.ru>
+Date:   Fri Apr 3 17:15:38 2020 +0300
+
+    Modified test_calc.py (testing func. without variables added)
+
+[33mcommit 06717267ba2668fa9b6956441182c44790ea899d[m
+Author: Bator Rinchino <rinchinobator@mail.ru>
+Date:   Fri Apr 3 17:12:20 2020 +0300
+
+    Modified calc.py (bug fixed in line 33)
+
+[33mcommit d965df554fbc851da8ae9a99485e56fd729f9167[m
+Author: Bator Rinchino <rinchinobator@mail.ru>
+Date:   Fri Apr 3 16:33:59 2020 +0300
+
+    testing a+2 added
+
+[33mcommit fe8535b9d76036eebe6181ba9333272b55a006f7[m
+Author: Bator Rinchino <rinchinobator@mail.ru>
+Date:   Fri Apr 3 16:08:43 2020 +0300
+
+    modified test_calc.py (func. ^ fixed)
+
+[33mcommit fc02e6f40f0a23d0eea5fdb8fd1d6e90613ed893[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: alex-pancho <panix.p@yandex.ru>
+Date:   Sun Mar 22 04:46:05 2020 +0200
+
+    JSult fix and update
+
+[33mcommit 1fee5685ba29984fd0cff09a505bcf50790cd9d8[m
+Author: alex-pancho <panix.p@yandex.ru>
+Date:   Sat Mar 14 14:02:58 2020 +0200
+
+    update
